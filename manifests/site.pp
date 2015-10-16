@@ -3,5 +3,4 @@ node default {
   $message = hiera('message')
   notify { $message: }
 
-  nginx::vhost { 'testing1.puppetlabs.vm': }
 }
