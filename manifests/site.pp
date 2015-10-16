@@ -1,3 +1,3 @@
 node default {
-  notify { "Hello, my namne is Josh": }
+  notify { "Hello, my name is Josh": }
 }
