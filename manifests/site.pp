@@ -3,4 +3,5 @@ node default {
   include hosts
   include skeleton
   include motd
+  include nginx
 }
